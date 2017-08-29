@@ -1,2 +1,2 @@
 # sample1
-sample_project
+Hi..This is my first sample project. I am gonna rock this world !!!
